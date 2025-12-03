@@ -1,0 +1,26 @@
+=== Registro de Partida #1 ===
+Jugador: Juan Carvajal
+
+--- Configuración ---
+Tamaño del tablero: 5X5
+Número de minas: 15
+
+--- Movimientos ---
+(3,3) -> Descubierto: X
+
+
+--- Resultado ---
+Estado: Perdió
+Casillas totales reveladas: 1
+
+--- Tablero revelado ---
+  1 2 3 4 5
+ +- - - - - +
+1|X X 2 X 2 |
+2|4 5 5 5 X |
+3|X X X X X |
+4|X 6 X 7 X |
+5|X 3 2 X X |
+ +- - - - - +
+
+
